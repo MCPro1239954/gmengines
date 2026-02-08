@@ -1,0 +1,28 @@
+table.basic-specs {
+  border: 1px #000000 solid;
+  width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+table.basic-specs th {
+  border: 1px #000000 solid;
+  width: 30%;
+}
+
+table.basic-specs th[colspan="2"] {
+  padding: 0.75em;
+}
+
+table.basic-specs td {
+  border: 1px #000000 solid;
+  padding: 0.5em;
+}
+
+table.basic-specs caption {
+  font-size: 1.5em;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid solid none solid;
+  padding: 0.75em;
+}
