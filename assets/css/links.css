@@ -3,7 +3,7 @@ a {
   text-decoration: none;
 }
 
-a.bad {
+a.bad, a[bad] {
   color: #FF0000;
   text-decoration: none;
   cursor: pointer;

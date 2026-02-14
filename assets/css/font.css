@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Narnoor";
+  src: url("../fonts/Narnoor-Regular.ttf");
+}
+
+html {
+  font-family: "Narnoor", Arial, sans-serif;
+}
