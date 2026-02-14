@@ -1,0 +1,10 @@
+a {
+  color: #00AAFF;
+  text-decoration: none;
+}
+
+a.bad {
+  color: #FF0000;
+  text-decoration: none;
+  cursor: pointer;
+}
